@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper PDF to Page"
+  short_description: "Turn one paper PDF into one detailed paper page"
+  default_prompt: "Use $paper-pdf-to-page to read one paper PDF and create its corresponding detailed paper page."
